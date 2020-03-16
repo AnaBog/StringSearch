@@ -1,0 +1,10 @@
+C:\Users\gljiv\source\repos\StringSearcher\bin\Debug\StringSearcher.exe.config
+C:\Users\gljiv\source\repos\StringSearcher\bin\Debug\StringSearcher.exe
+C:\Users\gljiv\source\repos\StringSearcher\bin\Debug\StringSearcher.pdb
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.csprojAssemblyReference.cache
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.StringSearcher.resources
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.Properties.Resources.resources
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.TextReader.resources
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.csproj.GenerateResource.cache
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.exe
+C:\Users\gljiv\source\repos\StringSearcher\obj\Debug\StringSearcher.pdb
